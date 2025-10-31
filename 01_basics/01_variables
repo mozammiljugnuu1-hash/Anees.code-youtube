@@ -6,7 +6,7 @@ accountCity = "karachi"
 // accountId = 2// not allowed
 
 accountEmail = "an@an.com"
-accountPassword = "22134"
+accountPassword = "221345"
 accountCity = "bilawal"
 
 console.log(accountId);
